@@ -1,2 +1,2 @@
-# nginx-example
-NGINX example
+# NGINX example
+
